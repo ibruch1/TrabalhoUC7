@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-Testando merge
-=======
 Aqui será o Login.
->>>>>>> origin/Login
+E aqui o usuário acessa, finalizando o login.
+
