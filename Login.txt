@@ -2,4 +2,4 @@ Aqui será o Login.
 E aqui o usuário acessa, finalizando o login. (inclusão da segunda linha de código, através da clonagem do repositório remoto na maquina local, criação da branch usuario, e publicacao da mesma no repositorio remoto, atraves do colaborador millergomes)
 Aqui abrirá uma tela splash. (alteração na branch usuario no repositorio local, e pulicacao da mesma no repositorio remoto, atraves do colaborador millergomes)
 Merge da branch Login com a branch usuario realizada com sucesso no repositorio local, com publicacao no repositorio remoto. Como não houve conflito na mesclagem de testes partimos para a próxima etapa, mesclar com main.
-
+Merge da branch main com a branch Login realizada com sucesso no repositorio local, com publicacao no repositorio remoto. O colaborador millergomes deseja boas festas a todos!
